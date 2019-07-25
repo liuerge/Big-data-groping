@@ -42,4 +42,4 @@ JVM调参：
 
 推荐-大牛的JVM课程--
 
-![Java虚拟机知识框架图](E:\GitHub\Big-data-groping\images_all_in_here\JVM_images\深入拆解Java虚拟机.jpg)
+![Java虚拟机知识框架图](https://github.com/liuerge/Big-data-groping/blob/master/images_all_in_here/JVM_images/%E6%B7%B1%E5%85%A5%E6%8B%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA.jpg)
