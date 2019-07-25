@@ -1,0 +1,5 @@
+Java虚拟机规范  Java SE 8版@www.java1234.com
+_深入理解Java虚拟机_JVM高级特性与最佳实践 第2版_220_
+垃圾回收算法手册  自动内存管理的艺术@www.java1234.com
+
+
