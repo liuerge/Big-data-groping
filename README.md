@@ -4,7 +4,11 @@
 
 Big-data-groping将包含大数据生态的组件介绍和摸索的一些感悟。
 
-个人博客：https://blog.csdn.net/xiaoxin1024       https://www.odydata.com
+个人博客：
+
+CSDN	https://blog.csdn.net/xiaoxin1024      
+
+自建网站	https://www.odydata.com
 
 整理不易，喜欢的点个 start 哟~
 
