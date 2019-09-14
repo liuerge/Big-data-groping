@@ -13,3 +13,23 @@
 3，介绍下ES的索引流程，分片
 
 4，ES索引和Lucene的区别
+
+5，Kiban怎么分析，制作报表
+
+6，Logstash怎么解析原始的Ngnix日志
+
+```
+1，用正则
+2，grok
+
+input {stdin{}}
+filter {
+    grok {
+        match => {
+            "message" => "\s+(?<request_time>\d+(?:\.\d+)?)\s+"
+        }
+    }
+}
+output {stdout{}}
+```
+
